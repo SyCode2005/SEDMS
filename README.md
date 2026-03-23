@@ -8,7 +8,7 @@ We propose SEDMS, a Space-Efficient framework for Dynamic Metric Selection. SEDM
 
 
 ## File Structure
-SEDMS/
+Coding/
 ├── main_SEDMS.m             # Main streaming loop
         ├── spaceReleasing_SEDMS.m  # Frequent Directions sketch 
 ├── featureSelectionFun7.m  # Joint matrix factorization solver
